@@ -12,4 +12,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 #### Customizing a Playlist
-![Customized Playlist in Jammming](public/Customize playlist.png)
+![Customized Playlist in Jammming](public/customized_playlist.png)
