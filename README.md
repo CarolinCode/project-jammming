@@ -12,8 +12,8 @@ The goal of this project was to create and implement following React components 
 And also to create a server-side logic for authorization and authentication to Spotify (**Spotify.js** located in **src**)
 
 #### Homepage of Jammming
-![Homepage of Jammming](public/Homepage.png)
+![Homepage of Jammming](Homepage.png)
 
 
 #### Customizing a Playlist
-![Customized Playlist in Jammming](public/customized_playlist.png)
+![Customized Playlist in Jammming](customized_playlist.png)
