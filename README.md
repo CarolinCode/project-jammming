@@ -9,6 +9,7 @@ The goal of this project was to create and implement following React components 
 - SearchResults
 - Track
 - Tracklist
+
 And also to create a server-side logic for authorization and authentication to Spotify (**Spotify.js** located in **src**)
 
 #### Homepage of Jammming
